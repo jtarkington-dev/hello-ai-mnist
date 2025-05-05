@@ -11,3 +11,8 @@ __pycache__/
 # Ignore system files
 .DS_Store
 Thumbs.db
+
+# setuptools_scm
+*.egg-info/
+dist/
+build/
